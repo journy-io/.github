@@ -10,8 +10,8 @@ We welcome your feedback, ideas and suggestions. We really want to make your lif
 
 We're huge fans of open source:
 * [journy-io/ratelimiter](https://github.com/journy-io/ratelimiter): A sliding rate limiter with Redis
-* [journy-io/clock](https://github.com/journy-io/clock): 
-* [journy-io/user-agent-parser](https://github.com/journy-io/user-agent-parser)
-* [journy-io/http](https://github.com/journy-io/http)
+* [journy-io/clock](https://github.com/journy-io/clock): Consume time as a service
+* [journy-io/user-agent-parser](https://github.com/journy-io/user-agent-parser): Parse user agent strings
+* [journy-io/http](https://github.com/journy-io/http): HTTP client
 
 Want to work for us? We don't have any open positions right now but feel free to reach out on hans at journy io.

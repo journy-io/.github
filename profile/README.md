@@ -1,6 +1,6 @@
 [![journy.io](https://raw.githubusercontent.com/journy-io/brand/main/githubbanner.png)](https://journy.io/?utm_source=github)
 
-👋 Hi, you can learn more about journy.io and its features on [our website](https://www.journy.io/engineering-data-platform?utm_source=github).
+👋 Hi, you can learn more about journy.io and its features on [our website](https://www.journy.io?utm_source=github).
 
 ## 📚 Documentation
 

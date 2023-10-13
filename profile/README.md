@@ -2,10 +2,6 @@
 
 👋 Hi, you can learn more about journy.io and its features on [our website](https://www.journy.io?utm_source=github).
 
-## 📚 Documentation
-
-Our developer docs can be found on [developers.journy.io](https://developers.journy.io/).
-
 ## 💡 Feedback & suggestions
 
 We welcome your feedback, ideas and suggestions.
